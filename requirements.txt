@@ -1,4 +1,6 @@
-aiogram>=2.25
+aiogram==2.25
+pytz
 APScheduler
 SQLAlchemy
 pytz
+
